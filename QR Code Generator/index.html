@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>QR Code Generator</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+    <style>
+        #qrCodeContainer {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <h1>QR Code Generator</h1>
+    <input id="text" type="text" placeholder="Enter text" />
+    <button onclick="generateQRCode()">Generate</button>
+    <div id="qrCodeContainer">
+        <div id="qrcode"></div>
+    </div>
+    
+    <script>
+        function generateQRCode() {
+            var text = document.getElementById('text').value;
+            document.getElementById('qrcode').innerHTML = "";
+            var qrcode = new QRCode(document.getElementById("qrcode"), {
+                text: text,
+                width: 128,
+                height: 128,
+            });
+        }
+    </script>
+</body>
+</html>
