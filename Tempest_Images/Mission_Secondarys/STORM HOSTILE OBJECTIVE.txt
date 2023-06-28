@@ -1,0 +1,3 @@
+This secondary mission is achieved at the end of your turn if either of the following conditions are true:
+You control one or more objective markers that were controlled by your opponent at the start of your turn.
+Your opponent did not control any objective markers at the start of your turn and you control the objective marker in your opponent’s deployment zone.

@@ -1,0 +1,3 @@
+When this secondary mission is generated, your opponent must identify one objective marker in no man’s land.
+
+This secondary mission is achieved at the end of your turn if you control the identified objective marker.

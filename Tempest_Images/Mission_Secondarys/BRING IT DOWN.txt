@@ -1,0 +1,5 @@
+When this secondary mission is first generated, your opponent must identify the model from their army on the battlefield that has the highest Wounds characteristic. If two or more models are tied, your opponent selects one of these models.
+
+This secondary mission is achieved when the identified model is destroyed.
+
+Note that this secondary mission is achieved even if the identified model was destroyed and then subsequently resurected for any reason.

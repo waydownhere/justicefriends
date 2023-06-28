@@ -1,0 +1,4 @@
+This secondary mission is achieved at the end of your turn if either of the following conditions are satisfied:
+One or more enemy CHARACTER or WARLORD units were destroyed during that turn.
+All CHARACTER or WARLORD units from your opponent’s Army Roster have been destroyed during the battle.
+Note that this secondary mission is achieved even if such a model was destroyed and then subsequently resurrected for any reason.

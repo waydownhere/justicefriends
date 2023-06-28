@@ -1,0 +1,6 @@
+While this secondary mission is active, keep a Kill tally. Each time an enemy model is destroyed, add a number of marks to your Kill tally equal to the Wounds characteristic of the destroyed model. A model can, if it is resurrected for any reason (i.e. it was destroyed and subsequently returned to the battlefield) potentially have marks added to this tally several times (assuming it is resurrected and subsequently destroyed several times over).
+
+This secondary mission is achieved once your Kill tally reaches a certain number, which depends on your battle size, as follows:
+Incursion = 15
+Strike Force = 30
+If, at the end of the battle, every model in your opponent’s army has been destroyed but your Kill tally is not enough for your battle size to achieve this secondary mission, then this secondary mission is still achieved, but in this instance you score 2 victory points instead of 5.

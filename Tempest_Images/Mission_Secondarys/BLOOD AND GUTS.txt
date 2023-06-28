@@ -1,0 +1,6 @@
+While this secondary mission is active, keep a Blood and Guts tally. Each time an enemy unit is destroyed by a melee attack made by a model in your army, add 1 to your Blood and Guts tally.
+
+This secondary mission is achieved once your Blood and Guts tally reaches a certain number, which depends on your battle size, as follows:
+Incursion = 2
+Strike Force = 3
+If, when this secondary mission is first drawn, for your battle size, your opponent has fewer than this number of units on the battlefield (including those embarked in TRANSPORT models that are themselves on the battlefield), but you destroy all of your opponent’s units on the battlefield with melee attacks, then this secondary mission is achieved, but in this instance you will only score 2 victory points from this secondary mission instead of 5.

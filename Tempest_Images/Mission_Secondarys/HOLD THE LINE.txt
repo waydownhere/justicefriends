@@ -1,0 +1,4 @@
+This secondary mission is achieved at the end of your opponent’s next turn, or at the end of the battle (whichever happens first) if there are no enemy units (excluding AIRCRAFT units) within range of your own deployment zone. That range depends on the battle size, as follows:
+Incursion = 3"
+Strike Force = 6"
+This secondary mission cannot be achieved during the first battle round; if you generate this secondary mission during the first battle round, generate a new secondary mission and shuffle this one back into your Secondary Mission deck.

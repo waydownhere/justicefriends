@@ -1,0 +1,3 @@
+If, when this secondary mission is generated, there are no INFANTRY units, or units with the Objective Secured ability remaining in your army, discard this secondary mission and generate a new one. This secondary mission is achieved when a unit from your army completes the Raise Banner action (see below).
+
+Raise Banner (Action): One unit from your army that has either the INFANTRY keyword or the Objective Secured ability can start to perform this action at the end of your Movement phase if it is within range of an objective marker in no man’s land that you control. The action is completed at the end of your turn provided the unit performing it is still within range of the same objective marker.

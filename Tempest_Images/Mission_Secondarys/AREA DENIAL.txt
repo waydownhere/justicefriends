@@ -1,0 +1,4 @@
+This secondary mission is achieved at the end of your turn if you have one or more units from your army wholly within a certain range of the centre of the battlefield and there are no enemy units within the same range of the centre of the battlefield. That range depends on the battle size, as follows:
+Incursion = 9"
+Strike Force = 12"
+This secondary mission cannot be achieved during the first battle round; if you generate this secondary mission during the first battle round, generate a new secondary mission and shuffle this one back into your Secondary Mission deck.

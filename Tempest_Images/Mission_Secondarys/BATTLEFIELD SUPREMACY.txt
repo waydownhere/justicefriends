@@ -1,0 +1,3 @@
+This secondary mission is achieved at the end of your turn if you control three or more objective markers and you also control more objective markers than your opponent.
+
+If you only have one or two units remaining in your army, then this secondary mission is instead achieved at the end of your turn if all remaining units from your army are within range of different objective markers, that you control and you also control more objective markers than your opponent, but in this instance you will only score 2 victory points from this secondary mission instead of 5.

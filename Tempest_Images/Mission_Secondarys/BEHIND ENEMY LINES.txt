@@ -1,0 +1,3 @@
+This secondary mission is achieved at the end of your turn if two or more units from your army (excluding AIRCRAFT units) are wholly within your opponent’s deployment zone.
+
+If you only have one unit remaining in your army (excluding AIRCRAFT units), then this secondary mission is instead achieved at the end of your turn if that unit is wholly within your opponent’s deployment zone, but in this instance you only score 2 victory points from this secondary mission instead of 5.

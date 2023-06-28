@@ -1,0 +1,4 @@
+This secondary mission is achieved at the end of your opponent’s next turn, or at the end of the battle (whichever happens first) provided all the following statements are true:
+No unit from your army failed a Morale test during that battle round.
+No unit from your army made a Fall Back move during that battle round.
+No unit from your army that started a Normal Move or an Advance move within range of an objective marker at the start of your turn in this battle round ended that move out of range of that objective marker.

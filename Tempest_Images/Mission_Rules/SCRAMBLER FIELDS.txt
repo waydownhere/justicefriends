@@ -1,0 +1,5 @@
+In this mission:
+If a unit from a player’s army has a pre-battle rule that allows it to be set up anywhere on the battlefield, that unit cannot be set up within range of an objective marker that is either in no man’s land or their opponent’s deployment zone.
+If a unit from a player’s army has a rule that allows it to make a move before the first turn begins, it cannot end that move within range of an objective marker in no man’s land.
+If any rule is used to redeploy a unit, that rule cannot be used to set up that unit within range of an objective marker in no man’s land.
+When Strategic Reserves and Reinforcement units from a player’s army are set up on the battlefield, they cannot be set up within range of an objective marker that is either in no man’s land or their opponent’s deployment zone.

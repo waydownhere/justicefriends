@@ -1,0 +1,1 @@
+In this mission, a player only receives the Battle-forged CP bonus at the start of their Command phase if they control the objective marker in their own deployment zone.

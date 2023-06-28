@@ -1,0 +1,3 @@
+Investigate Site (Action): One unit from your army can start to perform this action at the end of your Movement phase if it is wholly within 6" of the centre of the battlefield. This action is completed at the end of your turn provided the unit attempting it is still wholly within 6" of the centre of the battlefield and there are no enemy units (excluding AIRCRAFT units) wholly within 6" of the centre of the battlefield.
+
+If a unit has fewer than 5 models when this action is completed, it is still achieved, but in this instance you will onlly score 2 victory points from this secondary mission instead of 5.

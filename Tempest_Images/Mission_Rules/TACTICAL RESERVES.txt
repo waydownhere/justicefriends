@@ -1,0 +1,1 @@
+In this mission, the CP a player must pay to put units into Strategic Reserves is halved rounding up.
