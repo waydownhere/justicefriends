@@ -6,6 +6,7 @@ yeah, that was not exactly fun to figure out.
 Thinking of using this file as an ideaspace for what we might be able to collaborate on. Even if we do nothing else, we will gain a functional understanding of GIT and how to make changes that others can see afert we do them. 
 
 -40k battle manager: Keeping track of points, secondaries, strategies, might be useful.
+-Reddit Clone: I've seen a bunch of those freecodecamp.org videos with thumbnails that suggest that it would take hours, yes, but that pretty much cloning some of the most popular social media platforms out there is not the craziest thig in the world. Recognizing that it's the number of people who are on a platform that kinda makes or breaks it, might be a good excersise to see if we COULD do it. Something about messing with that on a small scale makes me think it would not be useless experience.
 =======
 
 Test to check making changes
