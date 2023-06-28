@@ -1,0 +1,33 @@
+Creating and Cloning Repositories:
+git init: Initialize a new Git repository.
+git clone <repository-url>: Clone an existing Git repository to your local machine.
+
+Working with Branches:
+git branch: List all branches in the repository.
+git branch <branch-name>: Create a new branch.
+git checkout <branch-name>: Switch to a different branch.
+git merge <branch-name>: Merge changes from a source branch into the current branch.
+
+Committing Changes:
+git add <file>: Stage changes in a specific file.
+git add .: Stage changes in all modified files.
+git commit -m "<commit-message>": Commit staged changes with a descriptive message.
+git push origin <branch-name>: Push committed changes to a remote repository.
+
+Updating and Synchronizing:
+git pull: Fetch and merge remote changes into the current branch.
+git fetch: Fetch remote changes without merging.
+git push: Push local commits to a remote repository.
+git remote -v: List remote repositories.
+
+Inspecting Changes:
+git status: View the status of the repository.
+git log: Display commit history.
+git diff: Show changes between commits, branches, or files.
+git show <commit-id>: Display detailed information about a specific commit.
+
+Undoing Changes:
+git reset: Unstage changes.
+git revert: Create a new commit that undoes a previous commit.
+git checkout -- <file>: Discard changes in a specific file.
+git checkout <commit-id>: Reset the repository to a specific commit.
