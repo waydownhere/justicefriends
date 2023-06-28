@@ -7,6 +7,8 @@ Thinking of using this file as an ideaspace for what we might be able to collabo
 
 -40k battle manager: Keeping track of points, secondaries, strategies, might be useful.
 -Reddit Clone: I've seen a bunch of those freecodecamp.org videos with thumbnails that suggest that it would take hours, yes, but that pretty much cloning some of the most popular social media platforms out there is not the craziest thig in the world. Recognizing that it's the number of people who are on a platform that kinda makes or breaks it, might be a good excersise to see if we COULD do it. Something about messing with that on a small scale makes me think it would not be useless experience.
+
+we could also use this as a version control for the Soulstorm Unification Mod
 =======
 
 Test to check making changes
