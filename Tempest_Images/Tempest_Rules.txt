@@ -1,0 +1,114 @@
+TEMPEST OF WAR GAMES
+A Tempest of war game is waged by following the sequence below (note that step 1 can be completed before you even get to the gaming table):
+
+1. SELECT BATTLE SIZE AND MUSTER ARMIES
+The players must first select the battle size they wish to play: Incursion or Strike Force (a guide of how long each should take is shown in the table below). Each player must then select a Battle-forged army. The points limit of each player’s army, and the number of command points each player starts with when they begin mustering their army, are shown in the table below.
+
+BATTLE SIZE	    BATTLE DURATION	    POINTS LIMIT	COMMAND POINTS
+Incursion	    Up to 2 hours	    1000	        6
+Strike Force	Up to 4 hours	    2000	        12
+
+Details of how to Battle-forge an army, use a points limit, select a WARLORD and what information a player’s army roster must contain can be found In the Warhammer 40,000 Core Book.
+
+The players cannot include Understrength units in their army, and their army cannot include any Specialist Detachments.
+
+All of the units in each Detachment in a player’s army must have at least one Faction keyword in common, and this keyword cannot be CHAOS, IMPERIUM, AELDARI, YNNARI or TYRANIDS, unless the detachment in question is a Fortification Network (this has no effect on the player’s Army Faction).
+
+All of the units in a player’s army that have selectable Faction keywords presented in angular brackets that a player selects when they add those units to their army - must all have the same selectable keywords. This means, for example, that all units with the <CHAPTER> keyword in a player s army must be from the same Chapter, and so all these units must replace <CHAPTER> with the name of that Chapter; all units with the <KABAL> keyword in a player’s army must be from the same Kabal, all units with the <WYCH CULT> keyword in a player’s army must be from the same Wych Cult, and so on. The only exception to this are as follows:
+The <MARK OF CHAOS> and <ALLEGIANCE> keywords - these can be different for different units in a player’s army.
+The DREADBLADE and FREEBLADE keywords these units can have different selectable Faction keywords to other units in a player’s army.
+If a player’s army includes one or more Super-heavy Auxiliary Detachments, they can change the Command Benefits of one of them to: ‘+2 Command points if the unit in this Detachment is not your WARLORD, but it is from the same Faction as your WARLORD’s Detachment, and that Faction is not CHAOS, IMPERIUM, AELDARI, YNNARI or TYRANIDS’.
+
+If either player has access to any Stratagems that are used before the battle to upgrade units, these must be used now and the details of the upgrades noted on the player’s army roster.
+
+Each player must then provide a copy of their army roster for their opponent to read through.
+
+With the exception of units with the Troops or Dedicated Transport Battlefield Roles, or units that are added to a player’s army during the battle that cost Reinforcement points, each player can only include the same datasheet in their army 2 times (if they are playing an Incursion battle) or 3 times (if they are playing a Strike Force battle).
+
+2. DETERMINE MISSION
+The Players must first split the cards into their respective decks. Deployment deck, Mission Rule deck, Primary Mission deck and Secondary Mission decks (one for the Attacker and one for the Defender). Set aside the two Core Stratagem cards (each player will receive one of these later). The players determine their mission by shuffling the Deployment deck, the mission rule deck and the Primary Mission deck and randomly drawing one card from each of these decks.
+
+
+NEW ORDERS
+1CP
+Core Stratagem – Strategic Ploy Stratagem
+Use this Stratagem at the end of your Command phase. Select one of your active secondary missions and discard it. Generate one new secondary mission.
+
+3. READ MISSION BRIEFING
+The players should read the Primary Mission card and the Mission Rule card they have drawn.
+
+The Primary Mission card details the primary mission that awards victory points to the players (players will also be able to achieve victory points by achieving secondary missions, which are detailed later) and will detail how and when the players will score victory points. Some Primary Mission cards also include actions that one or more units from a player’s army can perform, as described in the Warhammer Core Book.
+
+The Mission Rule card details any special rule that applies for the duration of the battle. The players should read and familiarise themselves with these before proceeding.
+
+SECONDARY MISSION DECK
+There are two Secondary Mission decks (one for the Attacker and one for the Defender) with identical cards, meaning players can draw the same secondary missions in a game. The Secondary Mission cards contain secondary missions that players can attempt to achieve to score victory points. Some Secondary Mission cards also include actions that one or more units from your army can perform, as described in the Warhammer 40,000 Core Book.
+
+At the start of each player’s Command phase, the player whose turn it is must determine what Secondary Mission cards are active for them. To do so, that player randomly draws cards from their Secondary Mission deck; if they have fewer than three active Secondary Mission cards, they draw from their deck until they have three cards. If a player’s deck runs out, they cannot generate any additional secondary missions during this battle.
+
+Each player has access to the New Orders Stratagem, which is included as a separate Core Stratagems card within this missions pack. The players can use this to discard an active secondary mission and generate a new one. In addition, at the end of their turn, a player can discard any of their active Secondary Mission cards that they wish to.
+
+Each secondary Mission card will detail when and how it is achieved. Each time a player achieves one, that card is discarded and, unless otherwise stated, that player scores 5 victory points.
+
+4. CREATE THE BATTLEFIELD
+The players now create the battlefield and set up terrain features. Missions are played on rectangular battlefields. The size of the battlefield depends on the battle size selected, as shown in the table below (the table shows the minimum size of battlefields):
+
+BATTLE SIZE	BATTLEFIELD SIZE (Minimum)
+Incursion	44" x 30"
+Strike Force	44" x 60"
+
+Unless noted otherwise, when setting up terrain features, use the guidelines detailed in the Warhammer 40,000 Core Book. Terrain features cannot be set up on top of objective markers. Players must use the battlefield terrain rules for terrain features.
+
+5. PLACE OBJECTIVE MARKERS
+The players now alternate setting up objective markers on the battlefield, one at a time, starting with the youngest player, until all objective markers have been set up. The number of objective markers placed on the battlefield depends on the battle size you have selected, as shown in the table below:
+
+BATTLE SIZE	OBJECTIVE MARKERS
+Incursion	4
+Strike Force	5
+
+One objective marker must be placed wholly within each deployment zone, and the remaining objective markers must be placed wholly within no man’s land, as shown on the Deployment card drawn for each mission. Objective markers must be placed more than 6" from any battlefield edge and more than 9" from any other objective marker.
+
+Unless otherwise stated objective markers can be set up on terrain features so long as the objective marker lies flat on that terrain feature and does not overhang any part of it, and that terrain feature does not have the Unstable Position terrain trait.
+
+If for whatever reasons it is not possible to set an objective marker as described above it is simply not placed on the battlefield.
+
+6. DETERMINE ATTACKER AND DEFENDER
+The players roll off and the winner decides who will be the Attacker and who will be the Defender. The players take their respective New Orders Core Stratagem card and Secondary Mission deck, shuffling the deck and placing it nearby for use later.
+
+7. CHOOSE DEPLOYMENT ZONE
+The Defender now selects one of the deployment zones for their army. The Attacker uses the other deployment zone. The deployment zones and no man’s land for the battle are shown on the Deployment card drawn for this mission.
+
+8. DECLARE RESERVES AND TRANSPORTS
+These missions use the Strategic Reserves rules, as described in the Warhammer 40,000 Core Book.
+
+Both players now secretly note down on their army roster which of the units in their army will start the battle in Strategic Reserves (units with the Fortifications battlefield role can never be placed into Strategic Reserves), which of their units will start the battle in a location other than the battlefield (if a player has access to any Stratagems that enable them to set up units from their army in a location other than the battlefield, they must use such Stratagems now), and which of their units will start the battle embarked within TRANSPORT models (they must declare which units are embarked on which model). When both players have done so, they declare their selections to their opponent.
+
+No more than half the total number of units in a players army can be Strategic Reserve and/or Reinforcement units, and the combined points value of all Strategic Reserve and Reinforcement units (including those embarked within TRANSPORT models that are Strategic Reserve and/or Reinforcement units) must be less than half of the total points value of a player’s army, even if every unit in that army has an ability that would allow them to be set up elsewhere.
+
+In Tempest of War missions, Strategic Reserve and Reinforcement units can never arrive on the battlefield in the first battle round. Any Strategic Reserve or Reinforcement unit that has not arrived on the battlefield by the end of the third battle round counts as having been destroyed, as do any units embarked within them (this does not apply to units that are placed into Strategic Reserves after the first battle round has started).
+
+9. DEPLOY ARMIES
+The players alternate setting up their remaining units one at a time, starting with the Defender. A player must deploy all of their remaining units with the Fortifications battlefield role before deploying any other unit. A player’s models must be set up wholly within their deployment zone. If one player finishes deploying all their units, their opponent then deploys the remainder of their units.
+
+Unless otherwise stated, when setting up a model from a unit with the Fortifications battlefield role on the battlefield, it cannot be set up within 3" of any other terrain feature that is not part of its own datasheet (excluding hills). If it is not possible to set up a Fortification as a result, a player can, in a War Zone Nachmund: Grand Tournament mission, remove one Obstacles or Area Terrain feature that is within their deployment zone from the battlefield in order to make room for their Fortification. If, by doing so, it is still not possible to set up their Fortification, replace the terrain feature removed - this Fortification cannot be deployed and counts as having been destroyed.
+
+If a model from a player’s army is so large that it cannot physically be set up wholly within their deployment zone (i.e. the smallest dimension of that model is greater than the depth of their deployment zone), it must be set up so that it is touching that player’s battlefield edge. In the first battle round, that model’s unit cannot do any of the following: make a Normal Move, Advance, Fall Back, attempt to manifest or deny psychic powers, make any attacks with ranged weapons, declare a charge, perform a Heroic Intervention, perform any actions or psychic actions. Models in such units count as having moved a distance in inches equal to their Move (M) characteristic in their first Movement phase. If the unit has a minimum Move characteristic, it counts as having moved its maximum Move characteristic.
+
+If both players have units with abilities that allow them to be set up ‘after both armies have deployed’, the players alternate setting up these units, starting with the Attacker.
+
+10. DETERMINE FIRST TURN
+The players roll off. The winner takes the first turn.
+
+11. RESOLVE PRE-BATTLE ABILITIES
+The players alternate resolving any pre-battle abilities units from their army may have, and resolving any Stratagems that are used before the battle (excluding those that upgrade their units or those that enable them to set up a unit in a location other than the battlefield), starting with the player who will take the first turn.
+
+12. BEGIN THE BATTLE
+The first battle round begins. The players continue to resolve battle rounds until the battle ends. The players will generate secondary missions during each battle round.
+
+13. ENDING THE BATTLE
+The battle ends after five battle rounds have been completed. If one player has no models remaining in their army at the start of their turn, the other player may continue to play out their turns until the battle ends.
+
+14. DETERMINE VICTOR
+At the end of the battle, the player with the most victory points is the winner. If players are tied, the battle is a draw.
+
+Each player can score a maximum of 45 victory points from primary missions and a maximum of 45 victory points from secondary missions, for a total of 90 possible victory points from mission objectives (any excess victory points awarded are discounted). If every model in a player’s army is painted to a Battle Ready standard, that player is awarded a bonus 10 victory points. This gives the players a maximum total score out of 100 victory points.
