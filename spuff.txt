@@ -1,1 +1,7 @@
 this is a test to even see if I can commit things to this repository. I have been honestly struggling
+yeah, that was not exactly fun to figure out.
+
+
+Thinking of using this file as an ideaspace for what we might be able to collaborate on. Even if we do nothing else, we will gain a functional understanding of GIT and how to make changes that others can see afert we do them. 
+
+-40k battle manager: Keeping track of points, secondaries, strategies, might be useful.
