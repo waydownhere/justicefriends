@@ -30,7 +30,6 @@ diceRollButton.onclick = function() {
   diceRollResult.innerHTML = diceRollResultValue;
   diceRollResult.style.fontSize = diceRollResultValue + 'em';
 };
-/* Move the result under the dialog box and roll button */
 diceRollResult.style.fontSize = '1em';
 diceRollButton.onclick = function() {
   var diceRollInputValue = diceRollInput.value;
@@ -43,7 +42,5 @@ diceRollButton.onclick = function() {
   }
   diceRollResult.innerHTML = diceRollResultValue;
   diceRollResult.style.fontSize = diceRollResultValue + 'em';
-  diceRollResult.style.position = 'absolute';
-  diceRollResult.style.top = '50px';
-  diceRollResult.style.left = '0px';
+  diceRollResult.style.position = 'static'; // Change position to static
 };
