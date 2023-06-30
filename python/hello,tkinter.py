@@ -19,7 +19,7 @@ button_frame.pack()
 #button that increases a counter when clicked
 ttk.Button(button_frame, text="Add", command=lambda: counter.set(str(int(counter.get()) + 1))).pack(side=LEFT)
 
-# button that decreases a counter when clicked
+# button that decreases a counter when clicked, the button is red when the counter is 0
 ttk.Button(button_frame, text="Subtract", command=lambda: counter.set(str(int(counter.get()) - 1 if int(counter.get()) > 0 else 0))).pack(side=LEFT)
 
 # Button that resets the counter when clicked, positioned in the upper right corner
